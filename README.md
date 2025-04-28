@@ -15,7 +15,7 @@ This repository contains:
 | Folder | Purpose |
 |--------|---------|
 | `terraform/` | Terraform Infrastructure as Code (Task 4.10)|
-| `scripts/` | Python Boto3 script (Task 2.5)|
+| `web-server-script/` | Python Boto3 script (Task 2.5)|
 
 
 ---
