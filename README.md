@@ -5,7 +5,7 @@ This repository contains:
 - **Terraform project** to deploy AWS resources:
   - EC2 Instance (Amazon Linux)
   - S3 Bucket for static website hosting
-  - Lambda Function triggered by S3 object creation
+  
 - **Python script** to interact with AWS S3:
   - List all buckets
   - Count objects in a specific bucket
