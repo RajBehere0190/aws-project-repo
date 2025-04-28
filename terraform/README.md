@@ -12,22 +12,22 @@ This Terraform code will:
 
 1. Navigate to the terraform directory:
    
-cd terraform/
+(`cd terraform/`)
 
 ## Initialize Terraform
 
 1. This command downloads all required providers and modules:
 
 
-   terraform init
+   (`terraform init`)
 
 2. Check the plan:
 
-    terraform plan
+    (`terraform plan`)
 
 3. Apply the configuration:
 
-   terraform apply
+   (`terraform apply`)
 
 ## Verification of implementation
 
