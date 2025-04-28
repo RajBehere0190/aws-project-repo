@@ -16,7 +16,7 @@ This Python script lists all S3 buckets and counts objects inside a specified S3
 
 1. SSH into your EC2 instance.
    
-   ssh -i ~/.ssh/your-key.pem ec2-user@<PUBLIC_IP>
+   (`ssh -i ~/.ssh/your-key.pem ec2-user@<PUBLIC_IP>`)
 
 ## Software Requirements
 
@@ -27,7 +27,23 @@ This Python script lists all S3 buckets and counts objects inside a specified S3
 | AWS CLI   | `sudo yum install awscli -y`       |
 
 
-## Run the script:
 
-python3 s3_operations.py
+## Create script file:
+
+(`nano s3_operations.py`)
+
+![image](https://github.com/user-attachments/assets/e56ec3c9-6634-4c37-9d32-803b90e1e963)
+
+## Execution & Validation
+
+1. Running the script
+
+   (`python3 s3_operations.py`)
+
+2. Expected Output
+
+   ![image](https://github.com/user-attachments/assets/3fc3a115-27ec-40d6-8952-9de92ecfb7fc)
+
+
+   
 
