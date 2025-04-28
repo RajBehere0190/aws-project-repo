@@ -28,3 +28,12 @@ cd terraform/
 3. Apply the configuration:
 
    terraform apply
+
+## Verification of implementation
+
+1. EC2 instance
+   ![image](https://github.com/user-attachments/assets/4eab309b-fa37-4e15-9d02-ae046417f302)
+
+2. S3 bucket
+   ![image](https://github.com/user-attachments/assets/c4eb1fb0-74ca-4130-9038-fa100856ffd4)
+
