@@ -15,4 +15,4 @@ def count_objects(bucket_name):
 
 if __name__ == "__main__":
     list_buckets()
-    count_objects("my-static-website-2024")  # Replace with your actual bucket name
+    count_objects("my-static-website-2025")  # Replace with your actual bucket name
