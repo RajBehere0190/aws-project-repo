@@ -24,7 +24,7 @@ This Python script lists all S3 buckets and counts objects inside a specified S3
 |-----------|------------------------------------|
 | Python 3  | `sudo yum install python3 -y`      |
 | boto3     | `pip3 install boto3 --user`        |
-| AWS CLI   | `sudo yum install awscli -y`       |
+
 
 
 
