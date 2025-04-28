@@ -16,7 +16,7 @@ This repository contains:
 |--------|---------|
 | `terraform/` | Terraform Infrastructure as Code (Task 4.10)|
 | `scripts/` | Python Boto3 script (Task 2.5)|
-| `.gitignore` | Files to ignore |
+
 
 ---
 
@@ -32,5 +32,5 @@ This repository contains:
 ## Quick Start
 
 1. Deploy Infrastructure (`terraform/`).
-2. Use Python script (`scripts/`) from EC2.
+2. Use Python script (`web-server-script/`) from EC2.
 
